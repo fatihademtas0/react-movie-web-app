@@ -47,8 +47,6 @@ function Home() {
         } finally {
             setLoading(false);
         }
-
-        setSearchQuery("");
     };
 
     return (
