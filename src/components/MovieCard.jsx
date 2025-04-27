@@ -8,8 +8,8 @@ function MovieCard({ movie }) {
 
     const favorite = isFavorite(movie.id);
 
-    function onFavoriteClick(e) {
-        e.preventDefault();
+    function onFavoriteClick(event) {
+        event.preventDefault();
 
         if (favorite) removeFromFavorites(movie.id);
         else addToFavorites(movie);
