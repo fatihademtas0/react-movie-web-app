@@ -58,8 +58,8 @@ Projenin çalışması için aşağıdaki adımları izle:
 Projeyi bilgisayarınıza klonlamak için aşağıdaki komutu kullanabilirsiniz:
 
 ```bash
-git clone https://github.com/username/movie-app.git
-cd movie-app
+git clone https://github.com/react-movie-web-app.git
+cd react-movie-web-app
 ```
 
 ### 2. Bağımlılıkları Yükleyin
