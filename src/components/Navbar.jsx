@@ -11,15 +11,11 @@ function Navbar() {
 
             <div className='navbar-links'>
                 <Link to='/' className='nav-link'>
-                    Hommmm
+                    Home
                 </Link>
 
                 <Link to='/favorites' className='nav-link'>
-                    Favorite
-                </Link>
-
-                <Link to='/favorites' className='nav-link'>
-                    Favorite
+                    Favorites
                 </Link>
             </div>
         </nav>
